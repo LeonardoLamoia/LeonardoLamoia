@@ -12,7 +12,7 @@ Sou um desenvolvedor Front-end,e meu objetivo é automatizar processos que deman
 
 ##
 
-<h1>Estatísticas</h1>
+<h1>🗺️Estatísticas</h1>
 
 <div align="center">
   <a href="https://github.com/LeonardoLamoia">
