@@ -2,7 +2,7 @@ Olá! Eu sou o Leonardo Lamóia
 
 
 - 🔭 Hoje sou Motofretista em um drogaria.
-- 🌱 Estudando programação(fullstack)
+- 🌱 Estudando programação(Front-end)
 - 😄 Pronouns: ele / dele
 
 <div align="center">
