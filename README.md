@@ -7,8 +7,8 @@
 - 🔭 Hoje sou Motofretista em um drogaria.
 - 🌱 Estudando programação(Front-end)
 - 😄 Pronouns: ele / dele
+<br>
 
-##
 <h1>👨‍💻Sobre mim:</h1>
 
 Sou um desenvolvedor Front-end,e meu objetivo é automatizar processos que demanda muito tempo das pessoas,deixando a vida delas mais práticas,acelerando suas respectivas produtividade no ambiente de trabalho,e também suavizando suas experiências do cotidiano,proporcionando uma vida mais simples de ser vivida.😄
@@ -23,7 +23,7 @@ Sou um desenvolvedor Front-end,e meu objetivo é automatizar processos que deman
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoLamoia&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 
-  ##
+  <br>
 
   <h1>🛠 Pilha de Tecnologia</h1>
   
@@ -38,13 +38,23 @@ Sou um desenvolvedor Front-end,e meu objetivo é automatizar processos que deman
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-##
+<br>
  
   <h1>🧑🏻 Links Sociais</h1>
-                                                                                                                                                 
-<div>                                                                                                                                                  
-<a href="https://instagram.com/leolamoia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href = "mailto:leonardotcinf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leonardo-lamóia-rosa-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-</div>
+  
+  
+  <p align="center" style="background:blue">
+  <a href="https://instagram.com/leolamoia" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-leolamoia-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="https://www.linkedin.com/in/leonardo-lamóia-rosa-/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-LeonardoLamoia-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+    <a href="https://wa.me/5532998400296" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/leolamoia-05122A?&style=flat&logo=whatsapp&logoColor=white)" alt="whatsapp"/>
+       </a>
+      
+   </p>
+                                                                                                                                                 
+                                                                                                                                             
