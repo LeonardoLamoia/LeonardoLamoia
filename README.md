@@ -1,7 +1,7 @@
 
 
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Leonardo Lamóia!</h1>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LeonardoLamoia&color=blueviolet" alt="Profile views" /> </p>
 <img align="right" width="300em" height="300em" src="https://github.com/LeonardoLamoia/LeonardoLamoia/blob/main/animation_500_kv8i962g.gif"/>
 
 - 🔭 Hoje sou Motofretista-Balconista em um drogaria.
