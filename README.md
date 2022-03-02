@@ -10,7 +10,7 @@
 
 <h1>👨‍💻Sobre mim:</h1>
 
-Sou um desenvolvedor Front-end,e meu objetivo é automatizar processos que demanda muito tempo das pessoas,deixando a vida delas mais práticas,acelerando suas respectivas produtividade no ambiente de trabalho,e também suavizando suas experiências do cotidiano,proporcionando uma vida mais simples de ser vivida.😄
+Sou um desenvolvedor Mobile,e meu objetivo é automatizar processos que demanda muito tempo das pessoas,deixando a vida delas mais práticas,acelerando suas respectivas produtividade no ambiente de trabalho,e também suavizando suas experiências do cotidiano,proporcionando uma vida mais simples de ser vivida.😄
 
 ##
 
