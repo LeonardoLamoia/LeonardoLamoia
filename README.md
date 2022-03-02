@@ -4,8 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LeonardoLamoia&color=blueviolet" alt="Profile views" /> </p>
 <img align="right" width="300em" height="300em" src="https://github.com/LeonardoLamoia/LeonardoLamoia/blob/main/animation_500_kv8i962g.gif"/>
 
-- 🔭 Hoje sou Motofretista-Balconista em um drogaria.
-- 🌱 Estudando programação(Front-end)
+- 🌱 Estudando programação(Mobile)
 - 😄 Pronouns: ele / dele
 <br>
 
