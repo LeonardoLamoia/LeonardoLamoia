@@ -27,22 +27,5 @@ My iOS skills include Swift, Architectures (MVVM, MVC, VIPER, Clean Architecture
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=leolamoia&show_icons=true&locale=en" alt="leolamoia" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leolamoia&" alt="leolamoia" /></p>
- 
-  <h1>🧑🏻 Social Links</h1>
-  
-  
-  
-  <p align="center" style="background:blue">
-  <a href="https://instagram.com/leolamoia" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-leolamoia-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://www.linkedin.com/in/leonardo-lamóia-rosa-/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-LeonardoLamoia-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-    <a href="https://wa.me/5532998400296" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/leolamoia-05122A?&style=flat&logo=whatsapp&logoColor=white)" alt="whatsapp"/>
-       </a>
-      
-   </p>
                                                                                                                                                  
                                                                                                                                              
