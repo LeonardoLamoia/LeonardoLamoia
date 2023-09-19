@@ -1,14 +1,14 @@
 
 
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Leonardo Lamóia!</h1>
+<h1 align="left">Hi<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I am Leonardo Lamoia Rosa!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LeonardoLamoia&color=blueviolet" alt="Profile views" /> </p>
 <img align="right" width="300em" height="300em" src="https://github.com/LeonardoLamoia/LeonardoLamoia/blob/main/animation_500_kv8i962g.gif"/>
 
-- 🌱 Estudando programação(Mobile)
-- 😄 Pronouns: ele / dele
+- 🌱 Specializing in Mobile Development
+- 😄 Pronouns: him / his
 <br>
 
-<h1>👨‍💻Sobre mim:</h1>
+<h1>👨‍💻About me:</h1>
 
 As a software developer with 2 years of experience, my main focus is mobile development (iOS). My experience with the Apple ecosystem began just over a year ago (both as a user and as a developer) and I was delighted with this ecosystem and the practicality and quality it delivers to its users. I have continued to focus my studies on the Swift stack since then, as well as best coding practices, design patterns, clean architecture and unit testing. My knowledge and experience in some technologies allows me to stay up to date with the latest trends in the technology market, allowing me to achieve great results in all my projects.
 
@@ -16,7 +16,7 @@ My iOS skills include Swift, Architectures (MVVM, MVC, VIPER, Clean Architecture
 
 ##
 
-<h1>🗺️Estatísticas</h1>
+<h1>🗺️Statistics</h1>
 
 <div align="center">
   <a href="https://github.com/LeonardoLamoia">
@@ -26,7 +26,7 @@ My iOS skills include Swift, Architectures (MVVM, MVC, VIPER, Clean Architecture
 
   <br>
 
-  <h1>🛠 Pilha de Tecnologia</h1>
+  <h1>🛠 Technology Stack</h1>
   
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -41,7 +41,7 @@ My iOS skills include Swift, Architectures (MVVM, MVC, VIPER, Clean Architecture
 
 <br>
  
-  <h1>🧑🏻 Links Sociais</h1>
+  <h1>🧑🏻 Social Links</h1>
   
   
   
