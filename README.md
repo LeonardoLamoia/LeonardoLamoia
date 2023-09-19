@@ -28,6 +28,8 @@ My iOS skills include Swift, Architectures (MVVM, MVC, VIPER, Clean Architecture
 
   <h1>🛠 Technology Stack</h1>
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons /nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)&nbsp;
 ![XCode](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=xcode)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
