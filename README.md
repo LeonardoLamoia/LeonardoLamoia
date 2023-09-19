@@ -19,7 +19,7 @@ My iOS skills include Swift, Architectures (MVVM, MVC, VIPER, Clean Architecture
 <h1>🗺️Statistics</h1>
 
 <div align="center">
-  <a href="https://github.com/LeonardoLamoia">
+  <a href="https://github.com/LeonardoLamoiaRosa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoLamoia&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoLamoia&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
