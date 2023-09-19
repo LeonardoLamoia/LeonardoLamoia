@@ -16,16 +16,47 @@ My iOS skills include Swift, Architectures (MVVM, MVC, VIPER, Clean Architecture
 
 ##
 
-<h3 align="left">Idiomas e ferramentas:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www. vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://firebase.google.com/ " target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height=" 40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla. org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript- original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target= "_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons /nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql " width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https:// www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactnative.dev/ " target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer "> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h1>🗺️Statistics</h1>
 
-<h3 align="left">Suporte:</h3>
-<p> <a href="https://www.buymeacoffee.com/leonardolamoia"> <img align="left" src="https://cdn .buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="leonardolamoia" /></a> < a href="https://ko-fi.com /leonardolamoia"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="leonardolamoia " /></a> </p><br><br>
+<div align="center">
+  <a href="https://github.com/LeonardoLamoiaRosa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoLamoia&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoLamoia&layout=compact&langs_count=7&theme=blue-green"/>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leolamoia&show_icons=true&locale=en&layout=compact" alt="leolamoia" /> </p>
+  <br>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=leolamoia&show_icons=true&locale=en" alt="leolamoia" /> </p>
+  <h1>🛠 Technology Stack</h1>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leolamoia&" alt="leolamoia" /></p>
+![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)&nbsp;
+![XCode](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=xcode)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+<br>
+ 
+  <h1>🧑🏻 Social Links</h1>
+  
+  
+  
+  <p align="center" style="background:blue">
+  <a href="https://instagram.com/leolamoia" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-leolamoia-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="https://www.linkedin.com/in/leonardo-lamóia-rosa-/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-LeonardoLamoia-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+    <a href="https://wa.me/5532998400296" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/leolamoia-05122A?&style=flat&logo=whatsapp&logoColor=white)" alt="whatsapp"/>
+       </a>
+      
+   </p>
                                                                                                                                                  
                                                                                                                                              
