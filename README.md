@@ -37,7 +37,8 @@ My iOS skills include Swift, Architectures (MVVM, MVC, VIPER, Clean Architecture
   <img align="center" alt="LeoLamoia-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="LeoLamoia-Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="LeoLamoia-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="LeoLamoia-Firebase" height="30" width="40" src="https://www.svgrepo.com/show/354202/postman-icon.svg">
+  <img align="center" alt="LeoLamoia-Postman" height="30" width="40" src="https://www.svgrepo.com/show/354202/postman-icon.svg">
+  <img align="center" alt="LeoLamoia-Firebase" height="30" width="40" src="https://e7.pngegg.com/pngimages/119/167/png-clipart-firebase-cloud-messaging-google-developers-software-development-kit-google-angle-triangle-thumbnail.png">
 </div>
 
 <br>
