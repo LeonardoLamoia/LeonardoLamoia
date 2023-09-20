@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LeonardoLamoia&color=blueviolet" alt="Profile views" /> </p>
 <img align="right" width="300em" height="300em" src="https://github.com/LeonardoLamoia/LeonardoLamoia/blob/main/animation_500_kv8i962g.gif"/>
 
-- 🌱 Specializing in Mobile Development
+- 🌱 Specializing in Mobile iOS Development
 - 😄 Pronouns: him / his
 <br>
 
