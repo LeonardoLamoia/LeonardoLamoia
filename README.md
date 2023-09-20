@@ -17,7 +17,7 @@ My iOS skills include Swift, Architectures (MVVM, MVC, VIPER, Clean Architecture
 
 ##
 
-<h1><img align="center" alt="LeoLamoia-Estatistica" height="30" width="40" src="https://cdn.icon-icons.com/icons2/854/PNG/96/4_icon-icons.com_67659.png">Statistics</h1>
+<h1><img align="center" alt="LeoLamoia-Estatistica" height="30" width="40" src="https://cdn.icon-icons.com/icons2/3598/PNG/96/business_diagram_report_analytics_statistics_graph_statistic_icon_226217.png">Statistics</h1>
 
 <div align="center">
   <a href="https://github.com/LeonardoLamoiaRosa">
