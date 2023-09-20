@@ -1,4 +1,4 @@
-![image](https://github.com/LeonardoLamoia/LeonardoLamoia/assets/77131498/e080f458-79cd-40f3-810c-dfe91c825b8b)
+
 
 <h1 align="left">Hi<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I am Leonardo Lamoia Rosa!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LeonardoLamoia&color=blueviolet" alt="Profile views" /> </p>
