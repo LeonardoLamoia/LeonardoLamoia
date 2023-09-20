@@ -38,7 +38,7 @@ My iOS skills include Swift, Architectures (MVVM, MVC, VIPER, Clean Architecture
 ![MicrosoftSQLServer](https://img.shields.io/badge/SQL%20Server-05122A?style=flat&logo=microsoftsqlserver)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman)&nbsp;
 ![Firebase](https://img.shields.io/badge/Firebase-05122A?style=flat&logo=firebase)&nbsp;
-![Azure](https://img.shields.io/badge/Azure-05122A?style=flat&logo=microsoftazure)&nbsp;
+![Azure](https://img.shields.io/badge/Azure%20DevOps-05122A?style=flat&logo=microsoftazure)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
