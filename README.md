@@ -40,6 +40,7 @@ My iOS skills include Swift, Architectures (MVVM, MVC, VIPER, Clean Architecture
   <img align="center" alt="LeoLamoia-Postman" height="30" width="40" src="https://www.svgrepo.com/show/354202/postman-icon.svg">
   <img align="center" alt="LeoLamoia-Firebase" height="30" width="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
   <img align="center" alt="LeoLamoia-AzureDevOps" height="30" width="40" src="https://www.svgrepo.com/download/448271/azure-devops.svg">
+<img align="center" alt="LeoLamoia-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
 </div>
 
 <br>
