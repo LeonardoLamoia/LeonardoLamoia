@@ -3,7 +3,7 @@
 <h1 align="left">Hi<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I am Leonardo Lamoia Rosa!</h1> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LeonardoLamoia&color=blueviolet" alt="Profile views" /> </p>
-<img align="right" width="300em" height="300em" src="https://github.com/LeonardoLamoia/LeonardoLamoia/blob/main/animation_500_kv8i962g.gif"/>
+<img align="right" width="300em" height="300em" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
 
 - 🌱 Specializing in Mobile Development
 - 😄 Pronouns: him / his
