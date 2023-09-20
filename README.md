@@ -1,4 +1,4 @@
-
+![image](https://github.com/LeonardoLamoia/LeonardoLamoia/assets/77131498/e080f458-79cd-40f3-810c-dfe91c825b8b)
 
 <h1 align="left">Hi<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I am Leonardo Lamoia Rosa!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LeonardoLamoia&color=blueviolet" alt="Profile views" /> </p>
@@ -29,7 +29,7 @@ My iOS skills include Swift, Architectures (MVVM, MVC, VIPER, Clean Architecture
   <h1>🛠 Technology Stack</h1>
 
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)&nbsp;
-![SwiftUI](https://assets.stnote.com/production/uploads/images/75103849)&nbsp;
+![SwiftUI](https://devimages-cdn.apple.com/wwdc-services/articles/images/6F49D049-3D36-4B68-B8C4-96A20A4AF5E1/2048.jpeg?width=48)&nbsp;
 ![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
