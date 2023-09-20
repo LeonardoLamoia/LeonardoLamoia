@@ -50,17 +50,11 @@ My iOS skills include Swift, Architectures (MVVM, MVC, VIPER, Clean Architecture
   
   
   
-  <p align="center" style="background:blue">
-  <a href="https://instagram.com/leolamoia" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-leolamoia-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://www.linkedin.com/in/leonardo-lamóia-rosa-/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-LeonardoLamoia-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-    <a href="https://wa.me/5532998400296" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/leolamoia-05122A?&style=flat&logo=whatsapp&logoColor=white)" alt="whatsapp"/>
-       </a>
-      
-   </p>
+ <div> 
+  <a href="https://www.instagram.com/leolamoia/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:leonardotcinf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leonardo-lam%C3%B3ia-rosa-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
                                                                                                                                                  
                                                                                                                                 
