@@ -29,7 +29,7 @@ My iOS skills include Swift, Architectures (MVVM, MVC, VIPER, Clean Architecture
   <h1>🛠 Technology Stack</h1>
 
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)&nbsp;
-![SwiftUI](https://developer.apple.com/icons/swiftui/swiftui-96x96_2x.png")&nbsp;
+![SwiftUI](https://assets.stnote.com/production/uploads/images/75103849/rectangle_large_type_2_1e76b81511044baee4e1809882b92b03.png?width=240)&nbsp;
 ![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
