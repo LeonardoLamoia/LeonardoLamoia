@@ -31,7 +31,7 @@ My iOS skills include Swift, Architectures (MVVM, MVC, VIPER, Clean Architecture
 
 <div style="display: inline_block"><br>
   <img align="center" alt="LeoLamoia-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
-  <img align="center" alt="LeoLamoia-SwiftUI" height="30" width="40" src="https://github.com/LeonardoLamoia/Arquitetura-MVVM-C/blob/master/Arquitetura-MVVM/Source/Assets.xcassets/swift-ui.imageset/icons8-swiftui-96.png">
+  <img align="center" alt="LeoLamoia-SwiftUI" height="40" width="40" src="https://github.com/LeonardoLamoia/Arquitetura-MVVM-C/blob/master/Arquitetura-MVVM/Source/Assets.xcassets/swift-ui.imageset/icons8-swiftui-96.png">
   <img align="center" alt="LeoLamoia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="LeoLamoia-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="LeoLamoia-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
